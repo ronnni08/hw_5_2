@@ -1,0 +1,38 @@
+img {
+ width: 200px;
+}
+.products {
+ margin-top: 15px;
+ display: flex;
+ float: left;
+}
+.product {
+ text-align: center;
+ display: inline-block;
+ width: 240px;
+ margin-bottom: 50px;
+ background-color: white;
+ height: 330px;
+}
+section {
+ background-color: #a9a9a914;
+ display: flex;
+ justify-content: center;
+ margin: 20px 90px;
+ border: 8px solid white;
+ box-shadow: 5px 5px 5px gray;
+}
+body {
+ background-color: #d3d3d300;
+}
+button {
+ width: 100px;
+ height: 30px;
+ border-radius: 15px;
+ border-color: #0000;
+ background-color: #ff3e73;
+ color: white;
+}
+h2 {
+ margin-left: 5px;
+}
